@@ -1,3 +1,10 @@
+# TINY-REGEX-C FORK
+
+This is fork of this project: https://github.com/kokke/tiny-regex-c
+
+Reason was only to include [nocrt](https://github.com/JHRobotics/nocrt) header and use this repository as submodule in my other projects.
+
+
 ![CI](https://github.com/kokke/tiny-regex-c/workflows/CI/badge.svg)
 # tiny-regex-c
 # A small regex implementation in C

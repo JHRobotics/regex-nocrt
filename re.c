@@ -33,6 +33,8 @@
 #include <stdio.h>
 #include <ctype.h>
 
+#include "nocrt.h"
+
 /* Definitions: */
 
 #define MAX_REGEXP_OBJECTS      30    /* Max number of regex symbols in expression. */
